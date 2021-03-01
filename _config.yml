@@ -114,3 +114,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://sonsandbosses-stackbit-d0fe4.netlify.app'
